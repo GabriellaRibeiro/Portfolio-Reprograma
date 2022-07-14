@@ -1,0 +1,26 @@
+.apresentacao {
+    display: flex;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.apresentacao img {
+    width: 12vw;
+    border-radius: 10px;
+    margin: 60px 0 60px 100px;
+}
+
+.textos {
+    display: flex;
+    flex-direction: column;
+    padding: 120px;
+    
+}
+
+.textos h2 {
+    margin-bottom: 10px
+}
+
+.textos p {
+    font-size:large;
+}

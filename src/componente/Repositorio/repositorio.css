@@ -1,0 +1,15 @@
+.repos {
+  background-color:#ffffff;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.lista {
+  text-align: center;
+    background-color: #1d1d1d;
+    padding: 20px;
+    margin: 20px;
+    color: #FFFF;
+    border-radius: 10px;
+}

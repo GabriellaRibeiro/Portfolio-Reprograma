@@ -1,0 +1,25 @@
+.container-project {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #c7ffc3;
+    padding: 50px;
+    margin: 50px 50px 50px 50px;
+    border-radius: 40px;
+}
+
+.container-project img {
+    max-width: 50%;
+}
+
+.container-project a {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #afe9ab;
+    padding: 50px;
+    margin: 50px 50px 50px 50px;
+    border-radius: 40px;
+}
